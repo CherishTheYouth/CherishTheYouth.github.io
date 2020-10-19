@@ -2,6 +2,8 @@
   font-weight: 400;
   color: $theme-black;
   background: $theme-white;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @include breakpoint(xl) {
